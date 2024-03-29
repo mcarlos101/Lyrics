@@ -1,2 +1,1 @@
-# Lyrics
-Song Lyrics
+# Video Lyrics in Advanced SubStation Alpha (.ass)
