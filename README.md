@@ -33,3 +33,7 @@ ffmpeg -loop 1 -i bg.jpg -i audio.m4a -vf subtitles=lyrics.ass -c:v libx265 -c:a
 ## Step 7
 Test the mp4 in your media player. I'm using [VLC media player](https://www.videolan.org/).
 
+# Here are some examples in Vimeo:
+1. [Megadeth - The Conjuring Lyrics](https://vimeo.com/927762755)
+1. [Entombed - Drowned Lyrics](https://vimeo.com/928069805)
+1. [Fear Factory - Zero Signal Lyrics](https://vimeo.com/928867241)
